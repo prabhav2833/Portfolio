@@ -1,8 +1,4 @@
-title: "Prabhav Pande"
-decription: "Gmail: prabhav2833@gmail.com"
-decription: "Phone Number: 646-464-2249"
-
-## Prabhav Pande
+# Prabhav Pande
 
 # Hi, My name is Prabhav Pande. 
 ## Header 2
