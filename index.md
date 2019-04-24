@@ -3,7 +3,7 @@
 
 <h1 align="center"> 𝙏𝙚𝙖𝙢 </h1>
 <h3 align ="center"> 750Z </h3>
-
+![Image](/Lightning.jpg)
 
 
 <h1 align="center">About me </h1>
