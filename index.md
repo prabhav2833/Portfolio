@@ -29,14 +29,13 @@
 ### 2. I have also worked with Unity and I managed to make a small game off a template during the hackathon!
 <img src="Screen Shot 2019-04-23 at 11.37.34 PM.png" width = "900" height = "500"/>
 ### 3. I have also made a blog about my interest in aeronautics and planes and hope to expand upon it during the summer!
-[blog](https://airandspaceclub.weebly.com/)
-
-4. JavaFX
+[AeroSpace](https://airandspaceclub.weebly.com/)
+### 4. JavaFX
 
 <h1 align="center"> 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 </h1>
-### I mainly wrote the driver code and helped with sawing materials.
-### I was also apart of the driver team as coach on days that 750Z competed. 
-### I have attended all of the competitions except for the first millburn competition and the optional pennsylvania competition.
+### 1. I mainly wrote the driver code and helped with sawing materials.
+### 2. I was also apart of the driver team as coach on days that 750Z competed. 
+### 3. I have attended all of the competitions except for the first millburn competition and the optional pennsylvania competition.
 
 <h1 align="center"> 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗣𝗶𝗰𝘁𝘂𝗿𝗲𝘀 </h1>
 <img src="image3.jpg" align = "center"/>
