@@ -30,6 +30,5 @@
 <img src="Screen Shot 2019-04-23 at 11.37.34 PM.png" width = "900" height = "500"/>
 
 <h1 align="center"> 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗣𝗶𝗰𝘁𝘂𝗿𝗲𝘀 </h1>
-| ![Image](/image3.jpg) |
-| :--: |
-| *Picture of me on the drive team* |
+![Image](/image3.jpg) 
+##### *A picture of me on the drive team*
