@@ -17,7 +17,7 @@
 <img src="cplusplus-original.svg" width="91" height="80" align="left" hspace="9"/>
 <img src="github-original.svg" width="91" height="80" align="left" hspace="9"/>
 <img src="html5-original.svg" width="91" height="80" align="left" hspace="9"/>
-<img src="66fad4dd9e.png" width="81" height="80" align="left" hspace="10"/>
+<img src="66fad4dd9e.png" width="81" height="80" align="left" hspace="9"/>
 <img src="python-original.svg" width="91" height="80"/>
 
 
