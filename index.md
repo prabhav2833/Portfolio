@@ -9,26 +9,28 @@
 <h3 align ="center"> I mainly worked with 750Z during the season, but I still helped with 750C on days that 750Z was not competing. </h3>
 ![Image](/Light.jpg)
 
-
+.imgContainer{
+    float:left;
+}
 <h1 align="center"> 🆂🅺🅸🅻🅻🆂 </h1>
 <div class="row">
-  <div class="column">
-    <img src="java-plain.svg" width="145" height="125" alt="Java-image">
+  <div class="imgContainer">
+    <img src="java-plain.svg" width="145" height="80" alt="Java-image">
   </div>
-  <div class="column">
-    <img src="c-original.svg" width="145" height="125" alt="C-image">
+  <div class="imgContainer">
+    <img src="c-original.svg" width="145" height="80" alt="C-image">
   </div>
-  <div class="column">
-    <img src="css3-plain.svg" width="145" height="125" alt="CSS-image">
+  <div class="imgContainer">
+    <img src="css3-plain.svg" width="145" height="80" alt="CSS-image">
   </div>
-  <div class="column">
-    <img src="html5-original.svg" width="145" height="125" alt="CSS-image">
+  <div class="imgContainer">
+    <img src="html5-original.svg" width="145" height="80" alt="CSS-image">
   </div>
-  <div class="column">
-    <img src="cplusplus-original.svg" width="145" height="125" alt="CSS-image">
+  <div class="imgContainer">
+    <img src="cplusplus-original.svg" width="145" height="80" alt="CSS-image">
   </div>
-  <div class="column">
-    <img src="python-original.svg" width="145" height="125" alt="CSS-image">
+  <div class="imgContainer">
+    <img src="python-original.svg" width="145" height="80" alt="CSS-image">
   </div>
 </div>
 
