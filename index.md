@@ -11,7 +11,27 @@
 
 
 <h1 align="center"> 🆂🅺🅸🅻🅻🆂 </h1>
-<img src="java-plain.svg" width="200" height="40" alt="Computer Hope">
+<div class="row">
+  <div class="column">
+    <img src="java-plain.svg" width="145" height="125" alt="Java-image">
+  </div>
+  <div class="column">
+    <img src="c-original.svg" width="145" height="125" alt="C-image">
+  </div>
+  <div class="column">
+    <img src="css3-plain.svg" width="145" height="125" alt="CSS-image">
+  </div>
+  <div class="column">
+    <img src="html5-original.svg" width="145" height="125" alt="CSS-image">
+  </div>
+  <div class="column">
+    <img src="cplusplus-original.svg" width="145" height="125" alt="CSS-image">
+  </div>
+  <div class="column">
+    <img src="python-original.svg" width="145" height="125" alt="CSS-image">
+  </div>
+</div>
+
 
 - Bulleted
 - List
