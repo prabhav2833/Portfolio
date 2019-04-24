@@ -11,7 +11,7 @@
 
 
 <h1 align="center"> 🆂🅺🅸🅻🅻🆂 </h1>
-![Image](/java-plain.svg)
+<img src="java-plain.svg" width="200" height="40" alt="Computer Hope">
 
 - Bulleted
 - List
