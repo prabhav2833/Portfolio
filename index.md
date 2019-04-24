@@ -11,8 +11,7 @@
 
 
 <h1 align="center"> 🆂🅺🅸🅻🅻🆂 </h1>
-
-<i class="icon-html5"></i>
+![Image](/java-plain.svg)
 
 - Bulleted
 - List
