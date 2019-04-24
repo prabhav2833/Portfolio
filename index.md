@@ -11,12 +11,21 @@
 
 <h1 align="center"> 🆂🅺🅸🅻🅻🆂 </h1>
 
-<img src="java-plain.svg" width="145" height="80" align="left" />
-<img src="c-original.svg" width="145" height="80" align="left" />
-<img src="css3-plain.svg" width="145" height="80" />
+<img src="java-plain.svg" width="91" height="80" align="left" />
+<img src="c-original.svg" width="91" height="80" align="left" />
+<img src="css3-plain.svg" width="91" height="80" align="left"/>
+<img src="cplusplus-original.svg" width="91" height="80" align="left"/>
+<img src="github-original.svg" width="91" height="80" align="left"/>
+<img src="html5-original.svg" width="91" height="80" align="left"/>
+<img src="66fad4dd9e.png" width="91" height="80" align="left"/>
+<img src="python-original.svg" width="91" height="80"/>
 
 
-
+<h1 align="center"> 🅾🆃🅷🅴🆁 🆂🅺🅸🅻🅻🆂 </h1>
+### I enjoy photography and my pictures can be seen here!
+<a href="https://www.instagram.com/prabhav.2833/">
+<img border="0" alt="Instagram" src="insta.png" width="90" height="90">
+</a>
 
 - Bulleted
 - List
