@@ -10,7 +10,7 @@
 ![Image](/Light.jpg)
 
 <h1 align="center"> 𝗦𝗸𝗶𝗹𝗹𝘀 </h1>
-
+<h3 align="center"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨 </h3>
 <img src="java-plain.svg" width="91" height="80" align="left" hspace="8"/>
 <img src="c-original.svg" width="91" height="80" align="left" hspace="8"/>
 <img src="css3-plain.svg" width="91" height="80" align="left" hspace="8"/>
@@ -27,4 +27,9 @@
 <img border="0" alt="Instagram" src="insta.png" width="90" height="90">
 </a>
 ### I have also worked with Unity and I managed to make a small game off a template during the hackathon!
-<img src="Screen Shot 2019-04-23 at 11.37.34 PM.png" />
+<img src="Screen Shot 2019-04-23 at 11.37.34 PM.png" width = "900" height = "500"/>
+
+<h1 align="center"> 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗣𝗶𝗰𝘁𝘂𝗿𝗲𝘀 </h1>
+| ![Image](/image3.jpg) |
+| :--: |
+| *Picture of me on the drive team* |
