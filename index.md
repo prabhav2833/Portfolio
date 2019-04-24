@@ -11,12 +11,12 @@
 
 <h1 align="center"> 🆂🅺🅸🅻🅻🆂 </h1>
 
-<img src="java-plain.svg" width="91" height="80" align="left" hspace="10"/>
-<img src="c-original.svg" width="91" height="80" align="left" hspace="10"/>
-<img src="css3-plain.svg" width="91" height="80" align="left" hspace="10"/>
-<img src="cplusplus-original.svg" width="91" height="80" align="left" hspace="10"/>
-<img src="github-original.svg" width="91" height="80" align="left" hspace="10"/>
-<img src="html5-original.svg" width="91" height="80" align="left" hspace="10"/>
+<img src="java-plain.svg" width="91" height="80" align="left" hspace="9"/>
+<img src="c-original.svg" width="91" height="80" align="left" hspace="9"/>
+<img src="css3-plain.svg" width="91" height="80" align="left" hspace="9"/>
+<img src="cplusplus-original.svg" width="91" height="80" align="left" hspace="9"/>
+<img src="github-original.svg" width="91" height="80" align="left" hspace="9"/>
+<img src="html5-original.svg" width="91" height="80" align="left" hspace="9"/>
 <img src="66fad4dd9e.png" width="81" height="80" align="left" hspace="10"/>
 <img src="python-original.svg" width="91" height="80"/>
 
