@@ -1,8 +1,7 @@
 # Prabhav Pande
+### South Brunswick High School • 646-464-2249 • prabhav2833@gmail.com
 
-# Hi, My name is Prabhav Pande. 
-## Header 2
-### Header 3
+   # About Me: My name is Prabhav Pande. 
 
 - Bulleted
 - List
