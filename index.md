@@ -1,5 +1,5 @@
 <h1 align="center"> 𝗣𝗿𝗮𝗯𝗵𝗮𝘃 𝗣𝗮𝗻𝗱𝗲 </h1>
-<h5 align ="center"> South Brunswick High School • 646-464-2249 • prabhav2833@gmail.com </h5>
+<h5 align ="center"> prabhav2833@gmail.com • South Brunswick High School • prabhav2833@gmail.com </h5>
 
 <h1 align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 </h1>
 ### My name is Prabhav Pande and I am a sophomore at South Brunswick High School. Although I was primarily a programmer, my building skills proved useful towards the team. I was also apart of the drive team as coach because of my strategic capabilities. I am a very enthusiastic learner, passionate programmer and creative thinker. My hobbies lie in basketball, producing music, coding, watching tv shows, playing chess, photography, astronomy and reading fiction books.  
@@ -31,6 +31,7 @@
 ### 3. I have also made a blog about my interest in aeronautics and planes and hope to expand upon it during the summer!
 [AeroSpace](https://airandspaceclub.weebly.com/)
 ### 4. JavaFX
+### 5. Currently working on a c++ application that allows users to store all of their credit and or debit cards and has easy access to them via a single card that will replicate all the information onto the chip and can be used anywhere. Currently I only have the passwords part of the app done where it stores the users data in the app. 
 
 <h1 align="center"> 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 </h1>
 ### 1. I mainly wrote the driver code and helped with sawing materials.
