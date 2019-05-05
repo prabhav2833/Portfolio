@@ -31,7 +31,7 @@
 ### 3. I have also made a blog about my interest in aeronautics and planes and hope to expand upon it during the summer!
 [AeroSpace](https://airandspaceclub.weebly.com/)
 ### 4. JavaFX
-### 5. Currently working on a c++ application that allows users to store all of their credit and or debit cards and has easy access to them via a single card that will replicate all the information onto the chip and can be used anywhere. Currently I only have the passwords part of the app done where it stores the users data in the app. 
+### 5. Currently working on a c++ application that allows users to store all of their credit and or debit cards and has easy access to them via a single card that will replicate all the information onto the chip and can be used anywhere. 
 
 <h1 align="center"> 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 </h1>
 ### 1. I mainly wrote the driver code and helped with sawing materials.
